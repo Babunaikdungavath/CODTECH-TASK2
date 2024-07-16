@@ -19,8 +19,11 @@ Objective: The objective of this project is to perform a database for a movie re
 Key Activities:
 
 Movie Management: Storing and updating details such as title, genre, release date, and availability status.
+
 Customer Management: Managing customer information, including contact details, membership status, and rental history.
+
 Rental Transactions: Recording when a movie is rented, updating movie availability, and linking the rental to the customer's account.
+
 Return Processing: Tracking movie returns, updating rental records with return dates, and adjusting availability status.
 
 Output of the code:
